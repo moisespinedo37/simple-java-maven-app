@@ -6,8 +6,8 @@ pipeline {
         }*/
 
         tools {
-            Maven 3.9.9
-            JDK 23
+            Maven_3.9.9
+            JDK_23
         }
     }
     stages {
