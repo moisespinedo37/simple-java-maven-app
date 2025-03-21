@@ -6,7 +6,7 @@ pipeline {
         }*/
 
         tools {
-            Maven_3.9.9
+            Maven399
             JDK_23
         }
     }
