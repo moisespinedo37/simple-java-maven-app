@@ -6,8 +6,8 @@ pipeline {
         }*/
 
         tools {
-            Maven399
-            JDK_23
+            maven 'Maven399'
+            jdk 'JDK_23'
         }
     }
     stages {
